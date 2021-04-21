@@ -3,6 +3,8 @@ templateKey: about-page
 path: /about
 title: Dr. Alexander Tan, Pediatric Psychology
 ---
+![](/img/at-copy.png)
+
 ### About Dr. Alexander Tan
 
 Dr. Alexander Tan is a pediatric neuropsychologist at CHOC in Orange County, Calif., with expertise in the assessment of neurological and neurodevelopmental disorders in children and adolescents.
