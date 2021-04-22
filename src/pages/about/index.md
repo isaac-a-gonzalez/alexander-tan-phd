@@ -3,7 +3,7 @@ templateKey: about-page
 path: /about
 title: Dr. Alexander Tan, Pediatric Psychology
 ---
-![](/img/at-copy.png)
+![](/img/tan-alexander-230x300.jpeg)
 
 ### About Dr. Alexander Tan
 
