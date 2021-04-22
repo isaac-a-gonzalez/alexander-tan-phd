@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Alexander Tan, Ph.D.
-image: /img/milad-b-fakurian-58z17lnvs4u-unsplash.jpg
+image: /img/milad-b-fakurian-58z17lnvs4u-unsplash-copy.png
 heading: Pediatric Neuropsychologist
 subheading: Department of Psychology
 mainpitch:
